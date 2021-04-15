@@ -1,0 +1,13 @@
+[
+    {
+        "id": 46463,
+        "username": "Digikube",
+        "content": "Merci beaucoup pour ce tuto !\n\nJ'ai qu'une remarque concernant l'affichage sur mobile de la pagination. Ça reste un repère visuel pour l'internaute sur la longueur du carousel. Ça répond à une question toute bête : est-ce que j'en ai pour 4 plombes pour avoir toutes les infos ou pas ?\nQuand bien même elle ne serait pas facilement clickable, je trouve pertinent de garder les \"dots\" affichés comme éléments de référence.\n\nDu coup, tu t'en doutes pour palier le comportement non-clickable de la pagination je mettrais bien un système de swipe :)\n\nEncore merci pour tout ce temps que tu prends pour partager ta R&D !",
+        "html": "<p>Merci beaucoup pour ce tuto !</p>\n<p>J'ai qu'une remarque concernant l'affichage sur mobile de la pagination. Ça reste un repère visuel pour l'internaute sur la longueur du carousel. Ça répond à une question toute bête : est-ce que j'en ai pour 4 plombes pour avoir toutes les infos ou pas ?\nQuand bien même elle ne serait pas facilement clickable, je trouve pertinent de garder les &quot;dots&quot; affichés comme éléments de référence.</p>\n<p>Du coup, tu t'en doutes pour palier le comportement non-clickable de la pagination je mettrais bien un système de swipe :)</p>\n<p>Encore merci pour tout ce temps que tu prends pour partager ta R&amp;D !</p>",
+        "avatar": "/images/default.png",
+        "createdAt": 1520067163,
+        "parent": 0,
+        "userId": 13684
+    }
+
+]
